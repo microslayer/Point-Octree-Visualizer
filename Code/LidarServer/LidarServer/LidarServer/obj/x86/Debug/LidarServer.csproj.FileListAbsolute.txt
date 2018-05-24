@@ -1,5 +1,0 @@
-/Users/pearlleff/Documents/Spring 2018/Geocomputation II/Final Project/Code/LidarServerConsole/LidarServer/LidarServer/bin/Debug/LidarServer.exe
-/Users/pearlleff/Documents/Spring 2018/Geocomputation II/Final Project/Code/LidarServerConsole/LidarServer/LidarServer/bin/Debug/LidarServer.pdb
-/Users/pearlleff/Documents/Spring 2018/Geocomputation II/Final Project/Code/LidarServerConsole/LidarServer/LidarServer/obj/x86/Debug/LidarServer.csproj.CoreCompileInputs.cache
-/Users/pearlleff/Documents/Spring 2018/Geocomputation II/Final Project/Code/LidarServerConsole/LidarServer/LidarServer/obj/x86/Debug/LidarServer.exe
-/Users/pearlleff/Documents/Spring 2018/Geocomputation II/Final Project/Code/LidarServerConsole/LidarServer/LidarServer/obj/x86/Debug/LidarServer.pdb
