@@ -40,8 +40,8 @@ Note: There is a LiDAR file already processed and saved in this GitHub repositor
 4. Copy the `points.json` and `octree.json` files to the `Visualization` folder. 
 5. Open `Visualization/index.html` in your browser (works best on Google Chrome). It should look like this: 
 
-<p align="center">
   ![](Images/example.jpeg)
+<p align="center">
 </p>
 
 
