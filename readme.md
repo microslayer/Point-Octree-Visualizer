@@ -41,7 +41,7 @@ Note: There is a LiDAR file already processed and saved in this GitHub repositor
 5. Open `Visualization/index.html` in your browser (works best on Google Chrome). It should look like this: 
 
 <p align="center">
-  <img width="460" src="Images/example.jpeg">
+  <img width="550" src="Images/example.jpeg">
 </p>
 
 ## Acknowledgements
