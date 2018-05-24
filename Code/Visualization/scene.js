@@ -105,13 +105,16 @@ function getBoundingBox(w, h, d, color) {
 	var geometry = new THREE.BoxGeometry(w, h, d);
 	var material = new THREE.MeshBasicMaterial({
         color: color, 
-        opacity: 0.1, 
+        opacity: 0.05, 
         transparent: true
     	}); 
+
+	geometry.center(); 
     var mesh = new THREE.Mesh(geometry, material);
 
 	var geometry = new THREE.BoxGeometry(w, h, d);
-	var geo = new THREE.EdgesGeometry( geometry ); // or WireframeGeometry( geometry )
+	geometry.center(); 
+	var geo = new THREE.EdgesGeometry( geometry ); 
 	var mat = new THREE.LineBasicMaterial( { color: color, linewidth: 4 } );
 	var wireframe = new THREE.LineSegments( geo, mat );
 
