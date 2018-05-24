@@ -46,4 +46,4 @@ Note: There is a LiDAR file already processed and saved in this GitHub repositor
 
 ## Acknowledgements
 
-This program was a project for GTECH 733 / Geocomputation II at Hunter College. Thank you to Professor Gordon Green for an interesting and educational course! 
+This program was a project for GTECH 733 / Geocomputation II at Hunter College. Thank you Professor Gordon Green for an interesting and educational course! 
