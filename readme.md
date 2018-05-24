@@ -11,6 +11,7 @@ This program creates a visualization of the octree used to partition a set of Li
 
 ## System Requirements
 
+- bash 
 - liblas
     - This project uses the las2txt command. Read more: [liblas](https://www.liblas.org/utilities/las2txt.html)
     - To install `lastools` on a mac, use the command `brew install liblas`. For other package managers or operating systems, check out the liblas [installation page](https://www.liblas.org/start.html)
